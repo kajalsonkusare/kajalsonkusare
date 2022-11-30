@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-kajalsonkusare-red)][(https://www.youtube.com/channel/UCMlqCztvjev9hEDQMHcs5lg)](https://www.youtube.com/channel/UCROTOV_c47h7cOVK7Hp61UQ)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-kajalsonkusare-red)][)](https://www.youtube.com/channel/UCROTOV_c47h7cOVK7Hp61UQ)](https://www.youtube.com/channel/UCROTOV_c47h7cOVK7Hp61UQ)
 [![Linkedin Badge](https://img.shields.io/badge/-Kajal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%A0y%C3%BBsh-kh%C3%A4dg%C4%AB-014958242/)](https://www.linkedin.com/in/kajal-sonkusare-172a6a226/)
 
 I'm
